@@ -1,4 +1,4 @@
-enableRobotsTXT = false
 User-agent: *
-Allow: /
+Disallow:
+
 Sitemap: https://kpr-tainan.github.io/kpr_tainan/sitemap.xml
